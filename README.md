@@ -84,4 +84,5 @@ python scripts/network_analysis.py
 ### Run with Docker
 ```bash
 docker build -t network-traffic-analysis .
-docker run network-traffic-analysis```
+docker run network-traffic-analysis
+```
